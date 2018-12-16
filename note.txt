@@ -7,3 +7,6 @@ https://www.cnblogs.com/bwlluck/p/5514424.html
 
 //InitializeObjectAttributes
 https://blog.csdn.net/hxc_huang/article/details/60776754
+
+NtWriteFile in dirver
+https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/content/ntifs/nf-ntifs-ntwritefile
