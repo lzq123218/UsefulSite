@@ -4,3 +4,6 @@ https://blog.csdn.net/lanzheng_1113/article/details/50634235
 
 //vs2015 专业版激活
 https://www.cnblogs.com/bwlluck/p/5514424.html
+
+//InitializeObjectAttributes
+https://blog.csdn.net/hxc_huang/article/details/60776754
