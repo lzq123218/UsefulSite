@@ -10,3 +10,6 @@ https://blog.csdn.net/hxc_huang/article/details/60776754
 
 NtWriteFile in dirver
 https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/content/ntifs/nf-ntifs-ntwritefile
+
+网络教程
+http://blog.sina.com.cn/s/blog_161a027220102wq5z.html
